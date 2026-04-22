@@ -2,7 +2,6 @@
 
 Software engineer.
 
-Cybernetics · Literature · Art
+> Cybernetics · Literature · Art
 
-[pointsofview.london](https://pointsofview.london)
-[seespace.art](https://seespace.art)
+[pointsofview.london](https://pointsofview.london) · [seespace.art](https://seespace.art)
